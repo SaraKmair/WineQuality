@@ -2,7 +2,7 @@
 This case study is a multi-class classification
 
 This analysis aims to :
-Understand how different features affect wine quality
+Understand how different features affect wine quality,
 Predict the quality of wine
 
 Meta Data:
