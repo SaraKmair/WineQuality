@@ -5,7 +5,8 @@ This analysis aims to :
 Understand how different features affect wine quality,
 Predict the quality of wine
 
-Meta Data:
+Meta Data: <br />
+
 -Fixed.acidity: a measurement of the total concentration of titratable acids. <br />
 -Volatile.acidity: a measure of steam distillable acids. <br />
 -Citric.acid: one of the many acids that are measured to obtained fixed acidity <br />
